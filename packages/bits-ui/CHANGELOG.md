@@ -1,5 +1,11 @@
 # bits-ui
 
+## 1.3.20
+
+### Patch Changes
+
+-   fix(FocusScope): safely call onCloseAutoFocus handler if defined ([`104241f`](https://github.com/huntabyte/bits-ui/commit/104241f18ac81900bfb1d8b73fcc80d253875f67))
+
 ## 1.3.19
 
 ### Patch Changes
